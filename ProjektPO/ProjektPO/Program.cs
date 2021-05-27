@@ -8,7 +8,8 @@ namespace ProjektPO
         {
             Console.WriteLine("Hello World!srutututu");
             Console.WriteLine("Bartek 19:35");
-            
+            string siema = "siema";
+            Console.WriteLine(siema);
             
         }
     }
