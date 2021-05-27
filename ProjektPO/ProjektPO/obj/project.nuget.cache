@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/7A31bHRlHqH1qX48odVRyDmJ5BHlU5Rz/k3t4GPwgUOJnMHDTYPbhifEnjzt5za7z8ZZ9eSL7cxv52dEgrRfg==",
+  "dgSpecHash": "JLTINjKtsf5jwCxzbBtXXlaUDrxupyEjWYfsFNJ2jpQZMir63xcWJ+VBv5uLVT4Hsy5Z8VNNrbJ/zEPWGFWxQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kuba\\source\\repos\\ProjektPO\\ProjektPO\\ProjektPO.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\barte\\Source\\Repos\\projektPO\\ProjektPO\\ProjektPO\\ProjektPO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barte\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

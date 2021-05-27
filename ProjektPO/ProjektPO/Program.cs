@@ -7,6 +7,9 @@ namespace ProjektPO
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!srutututu");
+            Console.WriteLine("Bartek 19:35");
+            
+            
         }
     }
 }
